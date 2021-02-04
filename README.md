@@ -11,7 +11,7 @@ This repository contains the tasks that I completed while working as an intern f
 
 
  
- [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>]()
+ [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/6GdJ6TibGis)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Usman-Ghani123/THE-SPARKS-FOUNDATION/blob/main/TASK%201%20-%20LINEAR%20REGRESSION.ipynb)
 
 
