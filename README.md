@@ -1,13 +1,15 @@
 <img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
-# THE-SPARKS-FOUNDATION
-This repository contains the tasks that I completed while working as an intern for [THE SPARKS INTERNSHIP](https://www.thesparksfoundationsingapore.org/)
 
-# INTRODUCTION
- 
- CATEGORY: DATA SCIENCE AND BUSINESS ANALYTICS
- TYPE: INTERNSHIP
- DURATION: 1 MONTH
- MODE : W0RK FROM HOME
+#  The Sparks Foundation Tasks
+
+
+This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
+- **Internship Category** - Data Science and Business Analytics
+- **Internship Duration** - 1 Month ( October-2020 )
+- **Internship Type** - Work from Home
+
+
+
  
  [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>]()
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Usman-Ghani123/THE-SPARKS-FOUNDATION/blob/main/TASK%201%20-%20LINEAR%20REGRESSION.ipynb)
