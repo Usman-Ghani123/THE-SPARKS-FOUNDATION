@@ -36,3 +36,19 @@ _Please click on the images on right side to view my solution._
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 1. Use R or Python or perform this task.
 1. Data can be found at [https://bit.ly/3cGyP8j](https://bit.ly/3cGyP8j)
+
+
+
+
+ [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>]()
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
+
+### # Task-4 : Exploratory Data Analysis - Terrorism(Level - Intermediate)
+_Please click on the images on right side to view my solution (preferably youtube)._
+
+1. Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ 
+1. As a security/defense analyst, try to find out the hot zone of terrorism. 
+1. What all security issues and insights you can derive by EDA? 
+1. Use Tableau or Power BI for this task
+1. Create storyboards. Screen-record along with your audio explaining the charts and interpretations. Use images.
+1. Dataset: Daily updated .csv file on [https://bit.ly/30d2gdi](https://bit.ly/2TK5Xn5)
