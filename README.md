@@ -37,10 +37,21 @@ _Please click on the images on right side to view my solution._
 1. Use R or Python or perform this task.
 1. Data can be found at [https://bit.ly/3cGyP8j](https://bit.ly/3cGyP8j)
 
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=2p41_bpoF8I&t=2s)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
+
+### # Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
+_Please click on the images on right side to view my solution (preferably youtube)._
+
+1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
+1. As a business manager, try to find out the weak areas where you can work to make more profit.
+1. What all business problems you can derive by exploring the data?
+1. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
+1. Dataset link :[https://bit.ly/3i4rbWl](https://bit.ly/3i4rbWl)
+1. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
 
-
- [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/IyRP7cyBLcA)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/IyRP7cyBLcA)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Usman-Ghani123/THE-SPARKS-FOUNDATION/blob/main/Task%204%20-%20Global%20Terrorism%20Cleaning%20(Pre-processing%20ONLY).ipynb)
 
 ### # Task-4 : Exploratory Data Analysis - Terrorism(Level - Intermediate)
@@ -53,11 +64,25 @@ _Please click on the images on right side to view my solution (preferably youtub
 1. Create storyboards. Screen-record along with your audio explaining the charts and interpretations. Use images.
 1. Dataset: Daily updated .csv file on [https://bit.ly/30d2gdi](https://bit.ly/2TK5Xn5)
 
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=KIEO27YuhMc&t=4s)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
+
+### # Task-5 : Exploratory Data Analysis - SPORTS(Level - Advance)
+_Please click on the images on right side to view my solution (preferably youtube)._
+
+1. Perform ‘Exploratory Data Analysis’ on dataset  ‘Indian Premier League’ 
+1. As a sports analysts, find out the most successful teams, players and factors
+contributing win or loss of a team.  
+1. Suggest teams or players a company should endorse for its products
+1. Use Tableau or Power BI for this task
+1. Create storyboards. Screen-record along with your audio explaining the charts and interpretations. Use images.
+1. Dataset:[https://bit.ly/34SRn3b](https://bit.ly/34SRn3b)
+
 
  [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>]()
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Usman-Ghani123/THE-SPARKS-FOUNDATION/blob/main/Task%206%20-%20PREDICTION%20USING%20DECISION%20TREE%20ALGORITHM.ipynb)
 
-### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+### # Task-6 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 _Please click on the images on right side to view my solution._
 
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
