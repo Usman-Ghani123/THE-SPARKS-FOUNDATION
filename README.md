@@ -52,3 +52,14 @@ _Please click on the images on right side to view my solution (preferably youtub
 1. Use Tableau or Power BI for this task
 1. Create storyboards. Screen-record along with your audio explaining the charts and interpretations. Use images.
 1. Dataset: Daily updated .csv file on [https://bit.ly/30d2gdi](https://bit.ly/2TK5Xn5)
+
+
+ [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>]()
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Usman-Ghani123/THE-SPARKS-FOUNDATION/blob/main/Task%206%20-%20PREDICTION%20USING%20DECISION%20TREE%20ALGORITHM.ipynb)
+
+### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+_Please click on the images on right side to view my solution._
+
+1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
+1. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
