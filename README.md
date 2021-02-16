@@ -38,7 +38,7 @@ _Please click on the images on right side to view my solution._
 1. Data can be found at [https://bit.ly/3cGyP8j](https://bit.ly/3cGyP8j)
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=2p41_bpoF8I&t=2s)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://app.powerbi.com/groups/b182794a-782e-476d-8164-b5ce4a4c8a70/dashboards/17bd7934-0047-45f0-ae7a-169b1c7f5934?ctid=1511ab2e-502b-4e2d-bd68-f679f549b5a2)
 
 ### # Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
 _Please click on the images on right side to view my solution (preferably youtube)._
@@ -65,7 +65,7 @@ _Please click on the images on right side to view my solution (preferably youtub
 1. Dataset: Daily updated .csv file on [https://bit.ly/30d2gdi](https://bit.ly/2TK5Xn5)
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=KIEO27YuhMc&t=4s)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://app.powerbi.com/groups/b182794a-782e-476d-8164-b5ce4a4c8a70/reports/a9aac5c2-e4f0-48b8-baed-a5f4b4ab89b0?ctid=1511ab2e-502b-4e2d-bd68-f679f549b5a2)
 
 ### # Task-5 : Exploratory Data Analysis - SPORTS(Level - Advance)
 _Please click on the images on right side to view my solution (preferably youtube)._
