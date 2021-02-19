@@ -88,3 +88,21 @@ _Please click on the images on right side to view my solution._
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
 1. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
+
+
+ [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/_-pM0IX0KHg)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://app.powerbi.com/groups/b182794a-782e-476d-8164-b5ce4a4c8a70/reports/fb215a82-0482-4f70-b693-9a86a141c9a6?ctid=1511ab2e-502b-4e2d-bd68-f679f549b5a2)
+
+### # Task-8 : Timeline Analysis : Covid-19(Level - Advanced)
+_Please click on the images on right side to view my solution._
+
+1. Create a storyboard showing spread of Covid-19 cases in your country or
+any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
+1. Use animation, timeline and annotations to create attractive and interactive
+dashboards and story
+1. Identify interesting patterns and possible reasons helping Covid-19 spread
+with basic as well as advanced charts
+1. Screen-record the completed storyboard along with your audio explaining the
+charts and giving recommendations.
+1. Dataset: Daily updated .csv file on [https://bit.ly/30d2gdi](https://bit.ly/30d2gdi)
+
