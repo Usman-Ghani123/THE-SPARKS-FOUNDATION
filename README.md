@@ -90,6 +90,23 @@ _Please click on the images on right side to view my solution._
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
 
+
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>]()
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
+
+### # Task-7 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
+_Please click on the images on right side to view my solution._
+
+1. Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, 
+and sentimental analysis of news headlines 
+1. Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
+1. Download historical stock prices from [finance.yahoo.com](finance.yahoo.com)
+1. Download textual (news) data from [https://bit.ly/36fFPI6](https://bit.ly/36fFPI6)
+1. Use either R or Python, or both for separate analysis and then
+combine the findings to create a hybrid model
+
+
  [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/_-pM0IX0KHg)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://app.powerbi.com/groups/b182794a-782e-476d-8164-b5ce4a4c8a70/reports/fb215a82-0482-4f70-b693-9a86a141c9a6?ctid=1511ab2e-502b-4e2d-bd68-f679f549b5a2)
 
