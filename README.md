@@ -92,7 +92,7 @@ _Please click on the images on right side to view my solution._
 
 
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>]()
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/n06bX8NFSvk)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Usman-Ghani123/THE-SPARKS-FOUNDATION/blob/main/Task%207%20-%20Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis.ipynb)
 
 ### # Task-7 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
